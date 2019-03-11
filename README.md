@@ -15,7 +15,7 @@ _init
 # or use
 _initAndPrompt
 # to get an additional line like:
-#2019-02-12T08:22:53 zebra@legolas(13.124.21.23) from 192.168.0.12
+#2019-02-12T08:22:53 user_name@server_name(server_ip) from ip_youre_running_the_script_from
 # or use
 _initAndPrompt "scriptname.sh"
 # and you may omit the next line (_echo_h) because it's taken care of for you
