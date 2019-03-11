@@ -9,7 +9,7 @@ This will download the latest version of the script and pipe it into your bash.
 
 ```bash
 #!/bin/bash
-source <(curl -s "https://lobash.lan.frux.io?ref=master")
+source <(curl -s "https://raw.githubusercontent.com/frux-technologies/lobash/master/README.md")
 _init
 
 # or use
